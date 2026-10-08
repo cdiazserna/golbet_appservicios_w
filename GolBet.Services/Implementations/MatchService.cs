@@ -1,5 +1,6 @@
 ﻿// GolBet.Services/Implementations/MatchService.cs
 using AutoMapper;
+using GolBet.Entities;
 using GolBet.Entities.Enums;
 using GolBet.Repositories.Interfaces;
 using GolBet.Services.DTOs;
